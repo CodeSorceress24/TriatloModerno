@@ -1,5 +1,5 @@
 Numa prova de triatlo moderno, o circuito se dá da seguinte maneira:
-- 3Km de corrida onde os atletas correm entre 20 e 25 m / 30 ms
+- 3 Km de corrida onde os atletas correm entre 20 e 25 m / 30 ms
 - 3 tiros ao alvo com pontuação de 0 a 10 (Cada tiro)
 - 5 km de ciclismo onde os atletas pedalam entre 30 e 40 m/ 40 ms
 25 atletas participam da prova e largam juntos, no entanto, apenas 5 armas de tiro estão à disposição.
